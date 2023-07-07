@@ -11,7 +11,7 @@ The analysis is based on a selected period of Citi Bike trip history logs. Multi
 ## Repository Structure
 
 - `data/`: This folder contains the selected Citi Bike data files used for the analysis.
-- `notebooks/`: This folder contains Jupyter notebooks used for data processing and visualization.
+- `notebooks/`: This folder contains Jupyter notebook used for data processing and visualization.
 - `visualizations/`: This folder contains the generated visualizations and dashboards in Tableau.
 - `README.md`: This file provides an overview of the analysis, repository structure, and instructions.
 
