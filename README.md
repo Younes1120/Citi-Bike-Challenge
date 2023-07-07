@@ -1,6 +1,6 @@
 # Citi Bike Analysis
 
-![Citi Bike Logo](citi-bike-Logo.png)
+![Citi Bike Logo](Image/citi-bike-Logo.png)
 
 This repository contains the analysis and visualizations of Citi Bike data. The analysis focuses on various aspects of Citi Bike usage, including trip statistics, user types, peak hours, and popular stations.
 
